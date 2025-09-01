@@ -1,2 +1,2 @@
-# floppy-bird
-rewriting floppy bird for fun.
+# flappy-bird
+rewriting flappy bird for fun.
